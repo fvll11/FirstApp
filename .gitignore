@@ -1,8 +1,19 @@
-# .gitignore content
+# Compiled output
 /dist
 /build
+
+# Dependency directories
 /node_modules
+
+# Angular cache
+/.angular/cache
+
+# IDEs and editors
 /.idea
 /.vscode
+
+# Logs
 *.log
+
+# Otros archivos o directorios específicos de tu proyecto
 *.zip
